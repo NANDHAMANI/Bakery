@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nan{
+    /* background-color: #52514D; */
+    background-image: url(img/b12.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 730px;
+    position: relative;
+   
+}
+
+.nan1 li{
+    display: inline-block;
+    padding-left: 40px;
+    color: white;
+    
+    
+}
+
+.nan2{
+    font-family: 'Lucida Sans';
+}
+
+.nan3{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 85px;
+    color: white;
+    font-weight: bolder;
+
+}
+
+.nan4{
+padding: 7px 30px;
+background-color: #52514D; 
+opacity: 0.6; 
+color: white;
+font-weight: bolder;
+}
+
+.nan5{
+    position: absolute;
+    bottom: -118px;
+    left: 48%;
+}
+
+.nan6{
+    width: 25%;
+    border-radius:50%;
+   
+
+}
+
+.nan7{
+    border: 10px solid transparent;
+    border-image: url(img/b15.jpeg) 30 round;
+    padding: 4px;
+    
+}
+
+.nan8{
+    border: 10px solid transparent;
+    border-image: url(img/b4.jpeg) 50 round;
+    padding: 4px;
+    
+}
+
+.nan9{
+    border: 10px solid transparent;
+    border-image: url(img/b10.jpeg) 30 round;
+    padding: 4px;
+    
+}
+
+.nan10{
+    border: 10px solid transparent;
+    border-image: url(img/b8.jpeg) 50 round;
+    padding: 4px;
+    
+}
+
+.nan11{
+    text-shadow: 3px 2px #C4AA96;
+    overflow: hidden;
+
+}
+
+.nan12{
+    background-image: url(img/b18.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 680px;
+}
+
+.nan13{
+    margin-top: 70px;
+}
+
+.nan14{
+   
+    margin-top: 120px;
+}
+
+.nan15{
+    width: 20%;
+    border-radius:50%;
+    
+}
+
+.nan16{
+    width: 20%;
+    border-radius:50%;
+}
+
+.nan17{
+    width: 20%;
+    border-radius:50%;
+}
+
+.nan18
+{
+    width: 11%;
+    height: 170px;
+    background-color: white;
+    position: absolute;
+    /* top: 0; */
+    left: 85%;
+    margin-top: 55px;
+    z-index: 1;
+    
+}
+
+.nan19
+{
+    background-image: url(img/b3.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 730px;
+}
+
+.nan20{
+    position: absolute;
+    bottom: 165px;
+    left: -5px;
+    color: #DFC691;
+    background-color: white;
+    font-weight: bold;
+    height: 41px;
+    
+    
+}
+
+.nan20 p{
+    border: 2px dotted #DFC691;
+    padding: 7px 30PX; ;
+}
+
+.nan21{
+    position: absolute;
+    background-color: white;
+    width: 25%;
+    height: 157px;
+    top: 0;
+    left: 72.5%;
+    opacity: 0.6;
+    text-align: center;
+}
+
+.nan21 h5{
+    color: #A67F61;
+    font-weight: bold;
+
+}
+
+.nan22{
+    position: absolute;
+    background-color: white;
+    width: 25%;
+    height: 170px;
+    top: 24%;
+    left: 72.5%;
+    opacity: 0.6;
+    text-align: center;
+
+}
+
+.nan22 h5{
+    color: #A67F61;
+    font-weight: bold;
+
+}
+.nan23{
+    position: absolute;
+    background-color: white;
+    width: 25%;
+    height: 180px;
+    top:49.5%;
+    left: 72.5%;
+    text-align: center;
+    
+}
+
+.nan23 h5{
+    color: #A67F61;
+    font-weight: bold;
+}
+
+
+.nan24 li{
+
+    display: inline-block;
+    padding-left: 25px;
+    font-weight: bold;
+    padding-top: 18px;
+    
+}
+
+.nan2{
+    font-family: 'Lucida Sans';
+}
+
+.nan25 li{
+    display: inline-block;
+    padding-left: 30px;
+    font-weight: bold;
+    padding-top: 18px;
+}
+
+.nan27{
+    position: absolute;
+    top: 18%;
+    left: 28%;
+    opacity: 0.9;
+    width: 40%;
+}
+
+.nan28{
+    position: absolute;
+    text-align: center;
+    color: #DFC691;
+    top: 27%;
+    left: 36%;
+}
+
+.nan29{
+    position: absolute;
+    top: 14%;
+    left: 41.5%;
+}
